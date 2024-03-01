@@ -1,0 +1,20 @@
+repo_name: muhenge/blog_spot
+report_id: eb8ae3552b12566db3de6662d3d9c98d
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-01T14:41:40+00:00'
+requested_by: muhenge
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/muhenge/blog_spot
+  detection_source: Repo Metadata
